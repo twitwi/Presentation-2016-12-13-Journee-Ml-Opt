@@ -299,28 +299,28 @@ li > ol, li > ul {
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 400;
-  src: local("Exo 2"), local("Exo2-Regular"), url(local-fonts/8C2PVL2WIMUnPF90ukjrZQ.woff) format("woff"), url(http://fonts.gstatic.com/s/exo2/v3/8C2PVL2WIMUnPF90ukjrZQ.woff) format("woff");
+  src: local("Exo 2"), local("Exo2-Regular"), url(local-fonts/8C2PVL2WIMUnPF90ukjrZQ.woff) format("woff"), url(//fonts.gstatic.com/s/exo2/v3/8C2PVL2WIMUnPF90ukjrZQ.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 700;
-  src: local("Exo 2 Bold"), local("Exo2-Bold"), url(local-fonts/RZBBdEhQV3g9mUXUAU9PpvesZW2xOQ-xsNqO47m55DA.woff) format("woff"), url(http://fonts.gstatic.com/s/exo2/v3/RZBBdEhQV3g9mUXUAU9PpvesZW2xOQ-xsNqO47m55DA.woff) format("woff");
+  src: local("Exo 2 Bold"), local("Exo2-Bold"), url(local-fonts/RZBBdEhQV3g9mUXUAU9PpvesZW2xOQ-xsNqO47m55DA.woff) format("woff"), url(//fonts.gstatic.com/s/exo2/v3/RZBBdEhQV3g9mUXUAU9PpvesZW2xOQ-xsNqO47m55DA.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Exo 2';
   font-style: italic;
   font-weight: 400;
-  src: local("Exo 2 Italic"), local("Exo2-Italic"), url(local-fonts/G075hziEYGpfdK2KgVmqBQ.woff) format("woff"), url(http://fonts.gstatic.com/s/exo2/v3/G075hziEYGpfdK2KgVmqBQ.woff) format("woff");
+  src: local("Exo 2 Italic"), local("Exo2-Italic"), url(local-fonts/G075hziEYGpfdK2KgVmqBQ.woff) format("woff"), url(//fonts.gstatic.com/s/exo2/v3/G075hziEYGpfdK2KgVmqBQ.woff) format("woff");
 }
 
 @font-face {
   font-family: 'Exo 2';
   font-style: italic;
   font-weight: 700;
-  src: local("Exo 2 Bold Italic"), local("Exo2-BoldItalic"), url(local-fonts/Rpc1bsIIcqFfucX8mi4y5hsxEYwM7FgeyaSgU71cLG0.woff) format("woff"), url(http://fonts.gstatic.com/s/exo2/v3/Rpc1bsIIcqFfucX8mi4y5hsxEYwM7FgeyaSgU71cLG0.woff) format("woff");
+  src: local("Exo 2 Bold Italic"), local("Exo2-BoldItalic"), url(local-fonts/Rpc1bsIIcqFfucX8mi4y5hsxEYwM7FgeyaSgU71cLG0.woff) format("woff"), url(//fonts.gstatic.com/s/exo2/v3/Rpc1bsIIcqFfucX8mi4y5hsxEYwM7FgeyaSgU71cLG0.woff) format("woff");
 }
 
 .timekeeper {
